@@ -1,2 +1,2 @@
 
-Just trying my best here!
+Interested in Networking, Linux, Open Source, and non-trivial automation.
