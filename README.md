@@ -1,2 +1,2 @@
 
-Interested in Networking, Linux, Open Source, and non-trivial automation.
+Interested in computer networking, Linux, FOSS, and non-trivial automation.
