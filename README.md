@@ -1,2 +1,2 @@
 
-Interested in computer networking, Linux, FOSS, and non-trivial automation.
+Interested in Network Automation, Security, Linux, and K8s.
