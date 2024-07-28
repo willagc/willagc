@@ -1,2 +1,2 @@
 
-My name is Will. In my current role I provide technical support with an emphasis in Linux, Networking, and Cloud.
+My name is Will. I provide technical support in my current role emphasizing Linux, Networking, and Cloud.
