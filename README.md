@@ -1,2 +1,8 @@
+Technical Support Engineer with a focus on Linux, Kubernetes, and Networking. 
 
-My name is Will. I provide technical support in my current role emphasizing Linux, Networking, and Cloud.
+Currently teaching myself the following:
+
+- Terraform
+- Ansible
+- Python
+- Observability (Prometheus / Grafana)
