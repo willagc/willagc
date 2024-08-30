@@ -8,3 +8,9 @@ Currently teaching myself the following:
 - Ansible 🅰️
 - Python 🐍
 - Prometheus / Grafana 🔥 📈
+
+## Personal
+- US Based
+- CKA certified
+- CCNA certified
+- RHCSA in progress.. 
