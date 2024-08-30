@@ -10,7 +10,6 @@ Currently teaching myself the following:
 - Prometheus / Grafana 🔥 📈
 
 ## Personal
-- US Based
 - CKA certified
 - CCNA certified
 - RHCSA in progress.. 
