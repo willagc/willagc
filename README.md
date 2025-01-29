@@ -1,5 +1,5 @@
 ## Intro
-Network Engineer with a focus on Linux, Kubernetes, and Networking. 
+Network Engineer with a focus on Linux, Kubernetes, and Open Source Software. 
 
 ## Goals
 Currently teaching myself the following:
