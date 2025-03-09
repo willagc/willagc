@@ -12,4 +12,3 @@ Currently teaching myself the following:
 ## Personal
 - CKA certified
 - CCNA certified
-- RHCSA in progress.. 
