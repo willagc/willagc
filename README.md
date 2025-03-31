@@ -11,15 +11,15 @@ Currently building deep expertise in security, infrastructure automation, and se
 
 ## 🛠️ Skills & Tools
 
-- 🐧 Linux (Debian, RHEL, Ubuntu)
-- ☸️ Kubernetes & 🐳 Docker
-- 🌐 Networking (Routing, Switching, WireGuard, VPNs, Firewalls)
-- 🧱 Infrastructure as Code (Terraform, Ansible)
-- 🔧 Git
-- 📈 Monitoring  (Prometheus, Grafana)
-- 🐍 Bash & Python scripting
-- ☁️ Cloud Platforms (AWS, Azure, GCP)
-- 🔒 Zero Trust
+- Linux (Debian, RHEL, Ubuntu)
+- Kubernetes & Docker
+- Networking (Routing, Switching, WireGuard, VPNs, Firewalls)
+- Infrastructure as Code (Terraform, Ansible)
+- Git
+- Monitoring  (Prometheus, Grafana)
+- Bash & Python scripting
+- Cloud Platforms (AWS, Azure, GCP)
+- Zero Trust
 
 ## 🚀 Interests
 
