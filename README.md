@@ -4,7 +4,7 @@ Technical Support Engineer with a focus on Linux, Kubernetes, and Networking.
 
 Currently building deep expertise in security, infrastructure automation, and secure networking architectures.
 
-## 🧠 Personal
+## Personal
 
 - CKA certified
 - CCNA certified
@@ -21,10 +21,9 @@ Currently building deep expertise in security, infrastructure automation, and se
 - Cloud Platforms (AWS, Azure, GCP)
 - Zero Trust
 
-## 🚀 Interests
+## Interests
 
-- 🤖 Automating infrastructure and network security
-- 🧪 Building and simulating lab environments
-- 📦 Self-hosting
-- 🔐 Learning secure networking principles
-- 🌍 Open-source contributions and collaboration
+- Automating infrastructure and network security
+- Building and simulating lab environments
+- Self-hosting
+- Learning secure networking principles
