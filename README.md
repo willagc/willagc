@@ -13,7 +13,7 @@ Currently building deep expertise in security, infrastructure automation, and se
 
 - Linux (Debian, RHEL, Ubuntu)
 - Kubernetes & Docker
-- Networking (Routing, Switching, WireGuard, VPNs, Firewalls)
+- Networking (Routing, Switching, WireGuard, SDN, Firewalls)
 - Infrastructure as Code (Terraform, Ansible)
 - Git
 - Monitoring  (Prometheus, Grafana)
