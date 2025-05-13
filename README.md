@@ -9,18 +9,6 @@ Currently building deep expertise in security, infrastructure automation, and se
 - CKA certified
 - CCNA certified
 
-## 🛠️ Skills & Tools
-
-- Linux (Debian, RHEL, Ubuntu)
-- Kubernetes & Docker
-- Networking (Routing, Switching, WireGuard, SDN, Firewalls)
-- Infrastructure as Code (Terraform, Ansible)
-- Git
-- Monitoring  (Prometheus, Grafana)
-- Bash & Python scripting
-- Cloud Platforms (AWS, Azure, GCP)
-- Zero Trust
-
 ## Interests
 
 - Automating infrastructure and network security
