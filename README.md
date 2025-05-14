@@ -1,6 +1,6 @@
 ## 👋 Intro
 
-Technical Support Engineer with a focus on Linux, Kubernetes, and Networking.
+I am a tech noob who enjoys networking, Linux, and Kubernetes.
 
 Currently building deep expertise in security, infrastructure automation, and secure networking architectures.
 
