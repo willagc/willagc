@@ -1,6 +1,6 @@
 ## 👋 Intro
 
-I am a tech noob who enjoys networking, Linux, and Kubernetes.
+I enjoy networking, linux, and kubernetes.
 
 Currently building deep expertise in security, infrastructure automation, and secure networking architectures.
 
