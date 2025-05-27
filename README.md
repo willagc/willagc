@@ -2,8 +2,6 @@
 
 I enjoy networking, linux, and kubernetes.
 
-Currently building deep expertise in security, infrastructure automation, and secure networking architectures.
-
 ## Personal
 
 - CKA certified
