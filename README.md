@@ -1,6 +1,6 @@
 ## 👋 Intro
 
-I enjoy networking, linux, and kubernetes.
+I deal with datacenter networking, linux, and kubernetes.
 
 ## Personal
 
